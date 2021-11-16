@@ -1,0 +1,13 @@
+perso --> objet
+combat --> equipement,perso,monstre
+msg
+tresor
+objet
+equipement
+terrain --> perso, tresor, monstre
+graphique --> t sauf sauvegarde
+sauvegarde --> t sauf jeu et graphique
+jeu --> t
+
+
+t = tout
